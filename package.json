@@ -4,8 +4,7 @@
   "main": "Node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node Node.js/hello.js",
-    "start1": "node Express.js/express.js"
+    "start": "node express.js",
   },
   "keywords": [],
   "author": "",
