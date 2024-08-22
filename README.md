@@ -1,5 +1,3 @@
-# week-4-backend-development-JAM3S11
-PLP based assignment on Node.js and Express.js
-
-Had issues accessing it from Powerlearnproject
-Encoded this!
+## NOTICE
+I had an issue while accessing my assigment
+Pushed this doc to my Github repo.
